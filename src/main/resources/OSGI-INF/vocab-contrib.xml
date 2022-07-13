@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<component name="org.nuxeo.sample.custom.vocab">
+	<extension target="org.nuxeo.ecm.directory.GenericDirectory" point="directories">
+		<directory name="clients" extends="template-vocabulary">
+			<dataFile>clients.csv</dataFile>
+		</directory>
+	</extension>
+</component>
