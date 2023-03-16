@@ -1,3 +1,11 @@
 id,label,obsolete,ordering
-001,client1,0,0
-002,client2,0,0
+cl001,client1,0,0
+cl002,client2,0,0
+cl003,client3,0,0
+cl004,client4,0,0
+cl005,client5,0,0
+cl006,client6,0,0
+cl007,client7,0,0
+cl008,client8,0,0
+cl009,client9,0,0
+

@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.nuxeo</groupId>
     <artifactId>nuxeo-parent</artifactId>
-    <version>2021.23.3</version>
+    <version>2021.35.3</version>
   </parent>
   <artifactId>custom-vocab</artifactId>
   <version>1.0-SNAPSHOT</version>
